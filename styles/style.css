@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: column; /* Apila los elementos verticalmente */
+    justify-content: center; /* Centra verticalmente */
+    align-items: center; /* Centra horizontalmente */
+    height: 110vh; /* Asegura que el contenedor ocupe toda la altura de la ventana */
+  }
+  
+  /* Estilos adicionales para el h1 e img si es necesario */
+  h1 {
+    font-size: 24px;
+    color: aqua;
+  }
+  
+  body {
+    background-color: black;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  a{
+    color: aliceblue;
+  }
+  
