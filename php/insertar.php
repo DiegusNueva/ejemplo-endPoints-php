@@ -2,7 +2,7 @@
 // Datos de conexión a la base de datos
 $host = 'localhost';
 $usuario = 'root';
-$contraseña = 'Ereba555'; // Reemplaza con tu contraseña
+$contraseña = 'nueva-contraseña'; // Reemplaza con tu contraseña
 $base_de_datos = 'pruebaTunivers';
 
 // Conexión a la base de datos
