@@ -79,7 +79,7 @@
             event.preventDefault();
 
             const nombre = document.getElementById('nombre').value;
-            const edad = document.getElementById('edad').value;
+            const edad = parseInt(document.getElementById('edad').value, 10);
             const direccion = document.getElementById('direccion').value;
 
             // Objeto con los datos a enviar
